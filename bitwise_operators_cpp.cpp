@@ -23,6 +23,7 @@ int main() {
 	return 0;
 }
 
+/*
 Output:
 AND: 2
 OR: 15
@@ -30,3 +31,4 @@ XOR: 13
 NOT a: -11
 Left Shift a: 20
 Right Shift a: 5
+*/
